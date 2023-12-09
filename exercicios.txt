@@ -1,0 +1,40 @@
+exercicio 1
+faça um algoritmo que dado as 3 notas tiradas por um aluno em um semestre da faculdade
+calcule e imprima a sua média e a sua classificação conforme a tabela abaixo.
+
+média = (nota 1 + nota 2 + nota 3) / 3;
+
+classificação:
+-média menor que 5, reprovação;
+-média entre 5 e 7, recuperação;
+média acima de 7, passou de semestre;
+
+exercicio 2
+O IMC- indice de massa corporal é um critério de Organização Mundial da Saúde para dar 
+uma indicação sobre a condição de peso de uma pessoa adulta.
+
+formula do IMC:
+IMC= peso/ (altura * altura)
+
+elabore um algoritmo que dado o peso e a altura de um adulto mostre sua condição de 
+acordo com a tabela abaixo:
+
+IMC em adultos Condição:
+- abaixo de 18.5 = abaixo do peso
+- entre 18.5 e 25 = peso normal
+- entre 25 e 30 = acima do peso
+-entre 30 e 40 = Obeso
+- acima de 40 = obesidade grave.
+*/ math.pow(altura,2)
+
+Exercicio 3
+Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal
+de etiqueta e a escolha da condição de pagamento.
+utilize os codigos da tabela a seguir para ler qual a condição de pagamento escolhida elabore
+efetuar o calculo adequado.
+
+codigo Condição de pagamento:
+- a vista debito = recebe 10% de desconto
+- a vista dinheiro ou Pix = recebe 15% de desconto
+-em 2vs+ preço normal sem juros
+- acima de 2vcs+ preço normal + 10% de juros
